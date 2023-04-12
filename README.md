@@ -9,7 +9,7 @@
 
 - 📫 Como chegar até mim **https://www.linkedin.com/in/melissa-julia-lecona-lequipe-b37016240**
 
-- ⚡ Curiosidade sobre mim **Adoro animais**
+<!-- - ⚡ Curiosidade sobre mim **Adoro animais** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
