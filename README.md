@@ -1,7 +1,7 @@
 ![MasterHead](https://cdnb.artstation.com/p/assets/images/images/038/935/389/large/raoni-dorim-mountains-night-highress.jpg?1624474759)
 <h1 align="center">Oi 👋, meu nome é Melissa Julia L. L</h1>
 <h3 align="center">Estudante de ADS, iniciando minha jornada nesta área da tecnologia</h3>
-<img align="right" alt="Coding" width="400" height="200" src="https://infographicnow.com/wp-content/uploads/2021/02/pixel-art-gif-Captivating-Pixel-Art-Scenes.gif">
+<img align="right" alt="Coding" width="400" src="https://infographicnow.com/wp-content/uploads/2021/02/pixel-art-gif-Captivating-Pixel-Art-Scenes.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
